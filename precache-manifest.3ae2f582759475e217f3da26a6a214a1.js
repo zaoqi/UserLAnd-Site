@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/galaxys8-feature.03724aa4.png"
   },
   {
-    "revision": "7db4bd01ae3f66974d68",
+    "revision": "ec35d8af69e86d0c280d",
     "url": "/static/css/main.c8e43715.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/phone.84ed7696.png"
   },
   {
-    "revision": "7db4bd01ae3f66974d68",
-    "url": "/static/js/main.7db4bd01.chunk.js"
+    "revision": "ec35d8af69e86d0c280d",
+    "url": "/static/js/main.ec35d8af.chunk.js"
   },
   {
     "revision": "01ad26c03fbc482d5978260d1a98477e",
@@ -36,19 +36,19 @@ self.__precacheManifest = [
     "url": "/static/media/LogoHeader.a5a83f1d.svg"
   },
   {
-    "revision": "bf3dd96e3544807d94a53628c80c16cd",
-    "url": "/static/media/bg-shape.bf3dd96e.svg"
-  },
-  {
     "revision": "b5b77e6b6dff4e3cfa48c4e9151cec8a",
     "url": "/static/media/white and gray shapes.b5b77e6b.svg"
+  },
+  {
+    "revision": "bf3dd96e3544807d94a53628c80c16cd",
+    "url": "/static/media/bg-shape.bf3dd96e.svg"
   },
   {
     "revision": "26bba0618093f7fbbcf2",
     "url": "/static/css/1.c9506576.chunk.css"
   },
   {
-    "revision": "0f74864489c500346fdb6eb68c609f6a",
+    "revision": "59781062ba522853d9119ad8b00dec56",
     "url": "/index.html"
   }
 ];
