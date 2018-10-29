@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/galaxys8-feature.03724aa4.png"
   },
   {
-    "revision": "f6ada5e5bed5d4ae1308",
+    "revision": "b7e20d99386fb74934b3",
     "url": "/static/css/main.c8e43715.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/phone.84ed7696.png"
   },
   {
-    "revision": "f6ada5e5bed5d4ae1308",
-    "url": "/static/js/main.f6ada5e5.chunk.js"
+    "revision": "b7e20d99386fb74934b3",
+    "url": "/static/js/main.b7e20d99.chunk.js"
   },
   {
     "revision": "01ad26c03fbc482d5978260d1a98477e",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.c9506576.chunk.css"
   },
   {
-    "revision": "2ea3d4cb8dda012a7cc0efa7591ba596",
+    "revision": "cc46160c790c0b842292a090b641d5da",
     "url": "/index.html"
   }
 ];
