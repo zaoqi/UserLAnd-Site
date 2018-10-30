@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "03724aa403f35daaa82c21cc8f3e95d6",
-    "url": "/static/media/galaxys8-feature.03724aa4.png"
+    "revision": "1f6f47ba17a914c84d2a579b4f28bbc1",
+    "url": "/static/media/phone-feature.1f6f47ba.gif"
   },
   {
-    "revision": "ec35d8af69e86d0c280d",
+    "revision": "26cdb441fbe388ae81d5",
     "url": "/static/css/main.c8e43715.chunk.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/static/media/phone.84ed7696.png"
   },
   {
-    "revision": "ec35d8af69e86d0c280d",
-    "url": "/static/js/main.ec35d8af.chunk.js"
+    "revision": "26cdb441fbe388ae81d5",
+    "url": "/static/js/main.26cdb441.chunk.js"
   },
   {
-    "revision": "01ad26c03fbc482d5978260d1a98477e",
-    "url": "/static/media/phone-feature-horizontal.01ad26c0.png"
+    "revision": "c9cf755812a8290bc019daf53d8d020b",
+    "url": "/static/media/phone-feature-horizontal.c9cf7558.gif"
   },
   {
     "revision": "a5a83f1d8ed395a653f7266475ee2e1e",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.c9506576.chunk.css"
   },
   {
-    "revision": "59781062ba522853d9119ad8b00dec56",
+    "revision": "b864005a80b0f398bacad38995386c9f",
     "url": "/index.html"
   }
 ];
