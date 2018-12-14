@@ -1,5 +1,5 @@
 const teamText = `
-# Out Team:
+# Our Team:
 
 Corbin Champion - GM
 
