@@ -12,6 +12,7 @@ import Home from './views/pages/home';
 import Jobs from './views/pages/jobs';
 import DefaultPage from './views/pages/DefaultPage';
 import eulaText from './views/pages/DefaultPage/eulaText';
+import teamText from './views/pages/DefaultPage/teamText';
 import NotFound from './views/pages/NotFound';
 import privacyText from './views/pages/DefaultPage/privacyText';
 import Nav from './views/layouts/Nav';
@@ -55,6 +56,7 @@ class App extends Component {
               <Route path='/jobs' component={Jobs} />
               <Route exact path='/policy' component={() => <DefaultPage markdown={privacyText} />} />
               <Route exact path='/eula' component={() => <DefaultPage markdown={eulaText} />} />
+              <Route exact path='/team' component={() => <DefaultPage markdown={teamText} />} />
               <Route component={NotFound} />
             </Switch>
             <Footer />

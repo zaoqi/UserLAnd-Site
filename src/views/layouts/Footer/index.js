@@ -23,6 +23,7 @@ class Footer extends Component {
               <ul className='flex-row navbar-nav'>
                 <li className='nav-item'><Link className='nav-link' to='/policy'>privacy policy</Link></li>
                 <li className='nav-item'><Link className='nav-link' to='/eula'>EULA</Link></li>
+                <li className='nav-item'><Link className='nav-link' to='/team'>Team</Link></li>
               </ul>
             </nav>
             <nav className='footer__nav navbar col-12 col-lg-3 order-md-3'>
