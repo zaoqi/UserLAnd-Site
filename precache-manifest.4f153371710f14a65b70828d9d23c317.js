@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/phone-feature.d3014400.gif"
   },
   {
-    "revision": "40bac1c46e819f7b5473",
+    "revision": "b19e0923626b5c4ba31c",
     "url": "/static/css/main.dd0dc297.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/vertical-screenshot.6be0727e.png"
   },
   {
-    "revision": "40bac1c46e819f7b5473",
-    "url": "/static/js/main.40bac1c4.chunk.js"
+    "revision": "b19e0923626b5c4ba31c",
+    "url": "/static/js/main.b19e0923.chunk.js"
   },
   {
     "revision": "be4009ad7e0ee7ab5c3607b4f9d92977",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.4886c6e9.chunk.css"
   },
   {
-    "revision": "7e759d9cf92cac3a3fec8cf4df6899b2",
+    "revision": "97567156b2a6291d6674966b46ccdd1b",
     "url": "/index.html"
   }
 ];
